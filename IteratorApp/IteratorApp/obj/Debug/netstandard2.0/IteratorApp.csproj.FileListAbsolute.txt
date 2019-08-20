@@ -1,0 +1,16 @@
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\IteratorApp.deps.json
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\IteratorApp.dll
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\IteratorApp.pdb
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.csproj.CoreCompileInputs.cache
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.AssemblyInfoInputs.cache
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.AssemblyInfo.cs
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.dll
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.pdb
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.csprojAssemblyReference.cache
+C:\Users\francisco.cordovafgk\source\repos\IteratorApp\IteratorApp\IteratorApp\obj\Debug\netstandard2.0\IteratorApp.csproj.CopyComplete
